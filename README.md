@@ -1,7 +1,7 @@
 # Simulation
-A simulation based on 4 traits and numerous specializations. Fairly well balanced as each simulation can lead to different results.\n
-Simulation is based around food, a limited resource that determines both reproduction and survial.\n
-Traits determine different base stats for each unit.\n
+A simulation based on 4 traits and numerous specializations. Fairly well balanced as each simulation can lead to different results.
+Simulation is based around food, a limited resource that determines both reproduction and survival.
+Traits determine different base stats for each unit.
 Each unit also has a chance to be specialized upon creation, which determines specific behaviors.
 Traits:
   The first trait, at traits[0], is aggressiveness. This trait determines placement in the que for food, as in a unit with high aggressiveness
